@@ -8,7 +8,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@handsontable/vue3": "latest",
+    "@handsontable/vue3": "14.6.2",
     "handsontable": "latest",
     "vue": "3.2.45"
   },
