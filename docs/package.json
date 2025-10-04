@@ -99,6 +99,6 @@
     "dayjs": "^1.11.10",
     "dotenv": "^16.4.5",
     "glob-watcher": "^6.0.0",
-    "patch-package": "^8.0.0"
+    "patch-package": "^8.0.1"
   }
 }
